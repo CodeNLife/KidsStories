@@ -68,3 +68,91 @@ footer {
     color: #fff;
     margin-top: 20px;
 }
+
+/* 🌈 Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ff9aa2;
+    padding: 15px 30px;
+}
+
+.logo {
+    font-size: 1.4em;
+    font-weight: bold;
+    color: white;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.1em;
+}
+
+.nav-links a.active {
+    text-decoration: underline;
+}
+
+/* 🎈 Hero */
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(#ffe5ec, #fef6e4);
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    color: #ff69b4;
+}
+
+/* 📖 Story Cards */
+.story-cards {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    width: 250px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+.card a {
+    display: inline-block;
+    margin-top: 10px;
+    background: #ff69b4;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+/* 🚧 Coming Soon */
+.coming-soon {
+    text-align: center;
+    padding: 40px;
+    background: #fff0f5;
+}
+
+.story-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 0 10px;
+}
