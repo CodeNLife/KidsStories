@@ -1,5 +1,5 @@
 body {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Comic Sans MS','Nunito', cursive, sans-serif;
     background: linear-gradient(to bottom, #fef6e4, #ffe5ec);
     color: #333;
     margin: 0;
@@ -21,7 +21,7 @@ h1 {
 }
 
 .tagline {
-    font-style: italic;
+    font-style: normal;
     color: #fffaf0;
 }
 

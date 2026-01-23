@@ -12,6 +12,11 @@ The website is designed with a **kids-friendly theme** and includes story pages 
 
 ---
 
+## 🔗 Live Website
+👉 https://codenlife.github.io/KidsStories/
+
+---
+
 ## 🌟 Features
 
 - Home page with navigation tabs
@@ -29,7 +34,10 @@ The website is designed with a **kids-friendly theme** and includes story pages 
 - VS Code  
 - Git & GitHub  
 
+## How to Run
+Open `index.html` using Live Server in VS Code.
 
+This site is deployed using GitHub Pages and will be improved gradually as part of my learning journey.
 
 
 
