@@ -156,3 +156,7 @@ footer {
     margin-top: 30px;
     padding: 0 10px;
 }
+html, body {
+    height: auto;
+    overflow-x: hidden;
+}
